@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "app-with-nodejstemplate"
+  name: "m2k-serverless-workflow"
 spec:
   type: service
   owner: user:guest
